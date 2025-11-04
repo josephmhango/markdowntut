@@ -1,2 +1,2 @@
 # example readme
-[cover](ha.png)
+![cover](ha.png)
