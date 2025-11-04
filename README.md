@@ -1,2 +1,2 @@
 # example readme
-[](ha.png)
+[cover](ha.png)
