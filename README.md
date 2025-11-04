@@ -10,3 +10,9 @@
 - [Tables](tables.md)
 - [Images](images.md)
 - [Reflections](#reflections)
+`inline code`
+
+```python
+def greet():
+    print("Hello!")
+```
